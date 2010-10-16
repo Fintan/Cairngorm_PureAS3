@@ -1,0 +1,5 @@
+This is a watered down version of Cairngorm that has all references to the Flex SDK stripped out.  It is based on Soundstep.com's first version SomaCore (now replaced with a better framework).  
+
+This version uses the Observer pattern ( a port of Colin Moock's AS2 Observer pattern code that accompanies his 'Essential AS2' book).  This gets round the absence of databinding in projects that don't use the Flex Framework (such as Pure AS3 projects and Flash CS* projects).
+
+A simple test app is provided to show how this stripped down architecture works.
