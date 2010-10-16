@@ -9,6 +9,10 @@ package test
 	import test.model.TestModel;
 	import test.view.TestView;
 	
+	/*
+	 *  Just a sample app using the Framework
+	 *
+	 */
 	public class Main extends Sprite
 	{
 		private var testView:TestView;
